@@ -19,10 +19,10 @@ Getting Started
 5. You can go back to the color scheme and change the colors as many times as needed.
 
 
-![](images/pag1.png)
+![Image 1](images/pag1.png)
 
-![](images/pag2.png)
+![Image 2](images/pag2.png)
 
-![](images/pag3.png)
+![Image 3](images/pag3.png)
 
-![](images/pag4.png)
+![Image 4](images/pag4.png)
