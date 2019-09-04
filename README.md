@@ -18,6 +18,10 @@ Getting Started
 4. After you've selected the size and color, you can select the desired boxes you want to use to create your art.
 5. You can go back to the color scheme and change the colors as many times as needed.
 
+Licensing 
+
+1. gpl
+
 
 ![Image 1](images/pag1.png)
 
