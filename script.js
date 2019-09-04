@@ -1,3 +1,4 @@
+// This file is used to construct the Grid and color schemes
 "use strict";
 
 const $tableElement = $('#pixelCanvas');
