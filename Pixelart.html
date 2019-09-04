@@ -1,0 +1,34 @@
+<html>
+<head>
+    <!-- Displays the title and links with css file -->
+    <title>Pixel Art Generator!</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Monoton">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="container">
+        <span class="text1">Kirstin's Pixel Art Generator!</span>
+        </div>
+    <!-- The grid system is applied to be able to adapt to any size grid preferred -->
+    <h2>Choose Grid Size</h2>
+    <form id="sizePicker">
+        Grid Height:
+        <input type="number" id="inputHeight" class="slider" name="height" min="1" value="1">
+        Grid Width:
+        <input type="number" id="inputWidth" class="slider" name="width" min="1" value="1">
+        <input type="submit">
+    </form>
+    <!-- Displays the color picker option-->
+    <h2>Pick a Color </h2>
+				<input type="color" id="colorPicker"  title="Set PAINT color">
+				
+    <h2>Design Canvas</h2>
+    <table id="pixelCanvas"></table>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+    
+    
+</body>
+</html>
+
