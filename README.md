@@ -25,10 +25,10 @@ Licensing
 
 ![Image 1](images/pag1.png)
 
-![Image 2](images/pag7.png)
+![Image 2](images/pag2.png)
 
-![Image 3](images/pag6.png)
+![Image 3](images/pag3.png)
 
-![Image 4](images/pag8.png)
+![Image 4](images/pag4.png)
 
-![Image 4](images/pag5.png)
+![Image 5](images/pag5.png)
