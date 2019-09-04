@@ -1,7 +1,7 @@
 
 Pixel Art Generator
 
-The project was created for individuals to use their creativity to create fun or useful images using pixels. I wanted to create something visual with an artistic attribute that will draw users attention.
+The project was created for individuals to use their creativity to create fun or useful images using pixels. I wanted to create something visual with an artistic attribute that will draw users attention. Begin your experience by selecting the size of the grid you desire and start using the pixels to display your artist abilites.
 
 Installing
 Step 1: Copy the Repository
