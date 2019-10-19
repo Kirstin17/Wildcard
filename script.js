@@ -6,6 +6,8 @@ const $inputHeight = $('#inputHeight');
 const $inputWidth = $('#inputWidth');
 const $colorPicker = $('#colorPicker');
 
+//***FAVORITE PART OF MY CODE***
+
 // Used to adjust the size of the Grid. The submit button is 
 // implimented to apply the specified height and weight.
 $('#sizePicker').submit( event => {
@@ -29,6 +31,9 @@ function makeGrid(height, width) {
         $('tr').append('<td></td>');
     };
 };
+
+//**FAVORITE PART OF MY CODE**
+
 // The function is used to choose the specifed color you want
 // to use for your pixel.
 function addCellClickListener() {
